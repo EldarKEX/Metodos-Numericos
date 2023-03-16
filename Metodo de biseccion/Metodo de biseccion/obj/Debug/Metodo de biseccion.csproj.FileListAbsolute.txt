@@ -1,0 +1,9 @@
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\bin\Debug\Metodo de biseccion.exe.config
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\bin\Debug\Metodo de biseccion.exe
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\bin\Debug\Metodo de biseccion.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo de biseccion.csproj.AssemblyReference.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo_de_biseccion.Properties.Resources.resources
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo de biseccion.csproj.GenerateResource.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo de biseccion.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo de biseccion.exe
+C:\Users\Eldar\source\repos\Metodos Numericos\Metodo de biseccion\Metodo de biseccion\obj\Debug\Metodo de biseccion.pdb
