@@ -1,0 +1,17 @@
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\MetodoDeGaussSeidel.exe.config
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\MetodoDeGaussSeidel.exe
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\MetodoDeGaussSeidel.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\TextBoxAdvance.dll
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\TextBoxAdvance.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.csproj.AssemblyReference.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.Properties.Resources.resources
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.csproj.GenerateResource.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.csproj.CopyComplete
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.exe
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\NCalc.dll
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\Ecuations.dll
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\bin\Debug\Ecuations.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.GaussSeidel.resources
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\MetodoDeGaussSeidel\obj\Debug\MetodoDeGaussSeidel.Form1.resources

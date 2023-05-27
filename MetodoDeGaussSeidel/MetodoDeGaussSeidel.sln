@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoDeGaussSeidel", "MetodoDeGaussSeidel\MetodoDeGaussSeidel.csproj", "{0FBBD0FF-DB4B-44CE-BA65-32AE62FB1834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecuations", "Ecuations\Ecuations.csproj", "{440192C4-33F9-4D27-BBB2-67BB5F754BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBBD0FF-DB4B-44CE-BA65-32AE62FB1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBBD0FF-DB4B-44CE-BA65-32AE62FB1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBBD0FF-DB4B-44CE-BA65-32AE62FB1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBBD0FF-DB4B-44CE-BA65-32AE62FB1834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440192C4-33F9-4D27-BBB2-67BB5F754BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440192C4-33F9-4D27-BBB2-67BB5F754BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440192C4-33F9-4D27-BBB2-67BB5F754BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440192C4-33F9-4D27-BBB2-67BB5F754BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4478B888-AE80-43C6-86A5-86C3AB20F504}
+	EndGlobalSection
+EndGlobal

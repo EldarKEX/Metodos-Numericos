@@ -1,0 +1,6 @@
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\bin\Debug\Ecuations.dll
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\bin\Debug\Ecuations.pdb
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\obj\Debug\Ecuations.csproj.AssemblyReference.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\obj\Debug\Ecuations.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\obj\Debug\Ecuations.dll
+C:\Users\Eldar\source\repos\Metodos Numericos\MetodoDeGaussSeidel\Ecuations\obj\Debug\Ecuations.pdb
